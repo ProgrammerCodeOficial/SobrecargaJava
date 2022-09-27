@@ -10,7 +10,7 @@ Sobrecarga é a capacidade de definir métodos para diferentes contextos, mas pr
 Altera a assinatura do método, mantendo o nome
 
 Assinatura = nome + parâmetros
-</p>
+</p></br>
 
 <h2> 🤔 Como sobrecarregar um método Java?</h2>
 
@@ -20,7 +20,7 @@ Uma classe pode fazer a sobrecarga nos métodos que foram declarados dentro dela
 - Métodos sobrecarregados devem possuir o mesmo nome.
 
 - Métodos sobrecarregados devem possuir listas de parâmetros diferentes.
-</p>
+</p></br>
 
 > <h3> Exemplos: </h3>
 
@@ -42,7 +42,7 @@ Uma classe pode fazer a sobrecarga nos métodos que foram declarados dentro dela
     converterParaInteiro ();
     
 ```
-
+</br>
 <h2> 🤝 Contribuindo </h2>
 
 <p>
@@ -51,7 +51,7 @@ Este repositório foi criado para fins de estudo. Fique a vontade para contribui
 Se te ajudei de alguma forma, ficarei feliz em saber. 😜
     
 Caso você conheça alguém que se identifique com esse conteúdo, não deixe de compartilhar.
-</br>
+</br></br>
 
 > <h4>Se possível:</h4>
 - ⭐️ Dê Star para o projeto
