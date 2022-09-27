@@ -2,14 +2,13 @@
 
 ### 🤔 O que são sobrecargas?
 
-<p> Sobrecarga é a capacidade de definir métodos para diferentes
-contextos, mas preservando seu nome.
+```shell
+Sobrecarga é a capacidade de definir métodos para diferentes contextos, mas preservando seu nome.
 
 Altera a assinatura do método, mantendo o nome
 
 Ass = nome + parâmetros
-
-</p>
+```
 
 ### Exemplos:
 
@@ -26,10 +25,10 @@ Ass = nome + parâmetros
 
 ### 🤔 Como sobrecarregar um método Java?
 
-<p> O que você precisa lembrar para usar sobrecarga de métodos é o seguinte. Uma classe pode fazer a sobrecarga nos métodos que foram declarados dentro dela
-e também nos métodos herdados.</p>
-
 ```shell
+O que você precisa lembrar para usar sobrecarga de métodos é o seguinte. Uma classe pode fazer a sobrecarga nos métodos 
+que foram declarados dentro dela e também nos métodos herdados.
+
 - Métodos sobrecarregados devem possuir o mesmo nome.
 
 - Métodos sobrecarregados devem possuir listas de parâmetros diferentes.
